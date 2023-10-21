@@ -32,12 +32,14 @@ function crearTabla() {
 
     var rutasDeImagen = [
         '../recursos/imagenes/Audifonos.webp',
-        '../recursos/imagenes/Bicicleta.webp',
-        '../recursos/imagenes/Cafetera.webp',
         '../recursos/imagenes/Camara.webp',
         '../recursos/imagenes/Monitor.webp',
-        '../recursos/imagenes/Nintendo.webp'
+        '../recursos/imagenes/Nintendo.webp',
+        '../recursos/imagenes/Cafetera.webp',
+        '../recursos/imagenes/Bicicleta.webp'
     ];
+    
+    
 
     var tabla = document.createElement('table');
 
